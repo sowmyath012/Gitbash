@@ -7,6 +7,7 @@ public class LoginTest {
 	public void work() {
 		System.out.println("welcome");
 		//first pull
+		//first push
 	}
 
 }
